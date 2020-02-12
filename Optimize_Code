@@ -1,0 +1,10 @@
+*start querying with a FACT table;
+*Compress data set option (Not Universal);
+*creating INDEXES on tables to search (DATASETS Procedure and using WHERE clause in data step);
+*Use FULLSTIMER option to assess full CPU usage;
+*Use DROP= or KEEP= with SET statements.
+*Using DATA step to import non SAS datasets, and using INFILE options;
+*creating SAS views instead of actual data;
+*using WHERE (instead of IF statements) in the data step to kill extras in the PDV;
+*Use BUFNO and BUFSIZE options;
+*/
